@@ -1,2 +1,2 @@
-# python_nlp_project
+# python-spacy-flask-testing
 Small project to test Flask + spacy
